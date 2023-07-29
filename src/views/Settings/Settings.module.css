@@ -1,0 +1,25 @@
+.viewSettings {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* padding-top: 50px; */
+  }
+  
+  .settings__nav {
+    display: flex;
+    flex-direction: column;
+
+    padding: 0 30px;
+    width: 350px;
+    /* margin-left: 150px; */
+  }
+  
+  .settings__content {
+    padding: 10px 15px;
+    /* background-color: aliceblue; */
+    
+    /* height: 500px; */
+    /* width: 400px; */
+    max-width: calc(100% - 170px);
+  }
+  

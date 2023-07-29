@@ -1,0 +1,18 @@
+.ViewForm {
+    display: flex;
+    border: 1px solid #adadad;
+    flex-direction: column;
+    /* overflow-y: scroll; */
+    /* scrollbar-color: transparent; */
+    /* overflow: hidden; */
+    /* display: block; */
+    /* overflow-y: auto; */
+  }
+
+.ViewButton{
+    /* width: 200px; */
+    /* overflow-y: scroll; */
+    /* margin-right: -50px; */
+    /* padding-right: 50px; */
+
+}

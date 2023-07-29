@@ -1,0 +1,14 @@
+.viewLibrary {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+  }
+
+.viewPlayer{
+  max-height: 100%;
+  height: 50%;
+  width: 70%;
+  margin: 10px;
+}
+  

@@ -1,0 +1,19 @@
+.ViewTrack {
+    /* flex: 1; */
+    /* max-width: 500px;
+    max-height: 500px; */
+    border: 1px solid #adadad;
+    /* overflow-y: scroll; */
+    /* scrollbar-color: transparent; */
+    /* overflow: hidden; */
+    /* display: block; */
+    /* overflow-y: auto; */
+  }
+
+.ViewItem{
+    /* width: 200px; */
+    /* overflow-y: scroll; */
+    /* margin-right: -50px; */
+    /* padding-right: 50px; */
+
+}
